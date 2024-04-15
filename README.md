@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Fernando Allendes Fernández.
+- 👀 I’m interested in security.
+- 🌱 I’m currently learning GitHub.
+- 💞️ I’m looking to collaborate on projects related to my job.
+- 📫 How to reach me ... here.
+- 😄 Pronouns: Mr.
+- ⚡ Fun fact: I started to code when GitHub did not exist ... :) ...
